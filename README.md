@@ -5,7 +5,7 @@ A collection of documents that may be used as a framework to run any successful 
 To answer this you must first understand who we are and what our culture as a company is all about.
 
 ### Our Culture
-It is the people in an organisation that determine how successful that organisation will be, that is why we take great care in not only living our mission in order to achieve our vission but without compromising our work ethics.
+It is the people in an organisation that determine how successful that organisation will be, that is why we take great care in not only living our mission in order to achieve our vision but without compromising our work ethics.
 
 #### Tagline
 **Value Driven Innovation:** It means that we are a result driven people, we don't like to innovate blindly without knowing what impact our changes have had to the end results. We strongly believe that if it can't be measured, it can't be improved.
