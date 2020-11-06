@@ -6,6 +6,7 @@ Our vision is to completely remove the technical challenges from the software pr
 
 ## Getting Started
 You can start by checking out our [project wiki](https://github.com/uprate-tech/uprate/wiki) for all the documentation created thus far.
+
 **Note:** We are still in early stages of writting all the documentation required to run a successful software development company, so we ask that you be patient and check in with us from time-to-time.
 
 ## Our Other Efforts
