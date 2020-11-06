@@ -4,20 +4,21 @@ A collection of documents that may be used as a framework to run a successful so
 ## Why Open-Source Our Operational Documents?
 Our vision is to completely remove the technical challenges from the software product development industry, so that all innovative software products may be affordably pursued by anyone with passion and an idea. As you can imagine such a vision can not be made possible without everyone working together to standardise the protocols in the industry, for the advancement of all future software development around the world.
 
+## Getting Started
+You can start by checking out our [project wiki](https://github.com/uprate-tech/uprate/wiki) for all the documentation created thus far.
+
+**Note:** We are still in early stages of writing all the documentation required to run a successful software development company, so we ask that you be patient and check in with us from time-to-time.
+
 ## Methodologies
 * Minimum Viable Product
 * Lean Principles
+* Timeboxing
 * Quick Wins
 * Agile/Scrum
 * Zero Bug Policy
 * Continuous Integration
 * Continuous Delivery
 * Automation
-
-## Getting Started
-You can start by checking out our [project wiki](https://github.com/uprate-tech/uprate/wiki) for all the documentation created thus far.
-
-**Note:** We are still in early stages of writing all the documentation required to run a successful software development company, so we ask that you be patient and check in with us from time-to-time.
 
 ## Our Other Efforts
 
