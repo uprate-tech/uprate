@@ -2,7 +2,7 @@
 A collection of documents that may be used as a framework to run any successful software development company.
 
 ## Why Open-Source Our Operational Documents?
-Our vision is to completely remove the technical challenges from the software product development industry, so that all innovative software products may be affordably pursued by anyone with passion and an idea. As you can imagine such a vision can not be made possible without everyone in the industry working together to standardise the protocols in our industry for the advancement of all people.
+Our vision is to completely remove the technical challenges from the software product development industry, so that all innovative software products may be affordably pursued by anyone with passion and an idea. As you can imagine such a vision can not be made possible without everyone working together to standardise the protocols in the industry, for the advancement of all future software development around the world.
 
 ## Getting Started
 You can start by checking out our [project wiki](https://github.com/uprate-tech/uprate/wiki) for all the documentation created thus far.
