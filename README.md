@@ -20,6 +20,10 @@ You can start by checking out our [project wiki](https://github.com/uprate-tech/
 * Continuous Delivery
 * Automation
 
+## Technologies
+* Github
+* Pivotal Tracker
+
 ## Our Other Efforts
 
 ### [Go-Diary](https://github.com/go-diary/diary)
